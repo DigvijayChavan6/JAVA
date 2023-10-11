@@ -55,7 +55,7 @@ public class twolist {
         lst2.setBackground(ls);
 
         f.setSize(500, 500);
-        f.getContentPane().setBackground(Color.black);
+        f.getContentPane().setBackground(Color.yellow);
         f.setVisible(true);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setLayout(null);
